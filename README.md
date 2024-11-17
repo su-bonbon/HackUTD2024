@@ -103,13 +103,15 @@ Below is a simple guide to help you install and set up the app without any exter
    ```sh
    git clone https://github.com/su-bonbon/HackUTD2024.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+4. Enter your API keys in .env
    ```js
-   const API_KEY = 'ENTER YOUR API';
+    OPENAI_API_KEY  = ""
+    LANGCHAIN_TRACING_V2 = "true"
+    LANGCHAIN_API_KEY = ""
+    LANGCHAIN_ENDPOINT = "https://api.smith.langchain.com"
+    LANGCHAIN_PROJECT = ""
+    USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    MONGO_URI = ""
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
