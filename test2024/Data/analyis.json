@@ -1,0 +1,52 @@
+[
+  {
+    "analysis_id": 1,
+    "company_fk": 100,
+    "base_ncav": 150.75,
+    "quantitative_adjustments": "Added cash reserves, Subtracted liabilities",
+    "adjustment_reasons": "Increase due to unexpected cash inflow; Decrease due to debt repayment",
+    "final_ncav": 140.50,
+    "initial_research": "Company shows stable cash flow with minor debt.",
+    "final_analysis": "Company's financial health is strong, with significant improvements in debt management."
+  },
+  {
+    "analysis_id": 2,
+    "company_fk": 99,
+    "base_ncav": 200.30,
+    "quantitative_adjustments": "Subtracted intangible assets",
+    "adjustment_reasons": "Excluding goodwill for a conservative estimate",
+    "final_ncav": 180.25,
+    "initial_research": "Company's net current assets are primarily in cash equivalents.",
+    "final_analysis": "Reduction in intangible assets provides a more realistic view of the company's liquid assets."
+  },
+  {
+    "analysis_id": 3,
+    "company_fk": 98,
+    "base_ncav": 95.00,
+    "quantitative_adjustments": "Subtracted long-term liabilities",
+    "adjustment_reasons": "Increase in long-term debt impacts NCAV negatively",
+    "final_ncav": 85.75,
+    "initial_research": "Company has recently taken on new long-term debt.",
+    "final_analysis": "Higher liabilities suggest caution, despite stable revenue streams."
+  },
+  {
+    "analysis_id": 4,
+    "company_fk": 97,
+    "base_ncav": 320.45,
+    "quantitative_adjustments": "Adjusted for seasonal inventory fluctuations",
+    "adjustment_reasons": "Inventory increase is expected to normalize post-season",
+    "final_ncav": 310.20,
+    "initial_research": "Seasonal trends significantly impact inventory levels.",
+    "final_analysis": "Post-season analysis indicates stable inventory management."
+  },
+  {
+    "analysis_id": 5,
+    "company_fk": 96,
+    "base_ncav": 450.00,
+    "quantitative_adjustments": "Adjusted for litigation expenses",
+    "adjustment_reasons": "Ongoing litigation expected to impact cash reserves",
+    "final_ncav": 425.00,
+    "initial_research": "Company has been involved in multiple legal disputes.",
+    "final_analysis": "Legal risks remain a factor; overall financial health remains positive."
+  }
+]

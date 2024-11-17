@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{7F5E7450-63C4-4AC9-8D66-1BA3A09F45AF}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.test2024 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test2024/Repositories/AnalysisRepository.cs">
+    <Files>
+      <File FileName="test2024/Models/Person.cs" NotebookId="1" />
+      <File FileName="test2024/Controllers/PersonController.cs" NotebookId="1" />
+      <File FileName="test2024/Controllers/CompanyController.cs" Line="58" Column="60" NotebookId="1" />
+      <File FileName="test2024/Program.cs" Line="25" Column="60" NotebookId="1" />
+      <File FileName="test2024/Models/Company.cs" NotebookId="1" />
+      <File FileName="test2024/Repositories/ICompanyRepository.cs" NotebookId="1" />
+      <File FileName="test2024/Models/Analysis.cs" NotebookId="1" />
+      <File FileName="test2024/Data/analyis.json" NotebookId="1" />
+      <File FileName="test2024/Repositories/IAnalysisRepository.cs" NotebookId="1" />
+      <File FileName="test2024/Repositories/AnalysisRepository.cs" Line="20" Column="58" NotebookId="1" />
+      <File FileName="test2024/Controllers/AnalysisController.cs" NotebookId="1" />
+      <File FileName="test2024/appsettings.json" Line="3" Column="117" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="55" Y="349" Width="829" Height="674">
+        <Files>
+          <File FileName="test2024/Models/Test.cs" />
+          <File FileName="test2024/Repositories/CompanyRepository.cs" />
+          <File FileName="test2024/Controllers/TestController.cs" />
+          <File FileName="test2024/Repositories/TestRepository.cs" Line="60" Column="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test2024" expanded="True">
+            <Node name="test2024" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="AnalysisRepository.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
