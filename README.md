@@ -11,15 +11,6 @@
 
   <p align="center">
     a RAG-based intelligent smart knowledge assistant for the financial services industry
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -93,12 +84,14 @@ To set up the project locally, follow these straightforward steps. Clone the rep
   ```sh
   npm install npm@latest -g
   ```
+* python
+* dotnet
 
 ### Installation
 
 Below is a simple guide to help you install and set up the app without any external dependencies. Follow the instructions to download the source code, configure the necessary files, and launch the app on your local environment. This setup ensures you can explore the app's features right away without any additional services.
 
-1. Get an API Key at [https://openai.com/index/introducing-chatgpt-and-whisper-apis/](https://openai.com/index/introducing-chatgpt-and-whisper-apis/)
+1. Get an API Key for [OpenAI](https://openai.com/index/introducing-chatgpt-and-whisper-apis/) and [LangSmith](https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key)
 2. Clone the repo
    ```sh
    git clone https://github.com/su-bonbon/HackUTD2024.git
